@@ -20,6 +20,14 @@ sudo apt install -y audacity
 sudo apt install -y git
 sudo apt install -y openjdk-17-jdk
 
+mkdir -p tools
+cd tools
+
+if [ ! -d "StegExpose" ]; then
+    git clone https://github.com/b3dk7/StegExpose.git
+fi
+
+cd ..
 
 # Python virtual environment
 python3 -m venv venv
@@ -28,6 +36,15 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
+mkdir -p datasets/images
+mkdir -p datasets/audio
+mkdir -p datasets/videos
+
+mkdir -p extracted/images
+mkdir -p extracted/audio
+mkdir -p extracted/videos
+
+mkdir -p reports
 
 chmod +x run_scan.sh
 chmod +x run_extract.sh
