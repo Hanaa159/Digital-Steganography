@@ -1,0 +1,738 @@
+STEGANOGRAPHY DETECTION REPORT
+============================================================
+
+FILE: stego_2.jpg
+--------------------------------------------------
+[STEGO INFO]
+No steghide payload detected (or wrong passphrase)
+[EXIF ANALYSIS]
+ExifTool Version Number         : 13.50
+File Name                       : stego_2.jpg
+Directory                       : datasets/images
+File Size                       : 59 kB
+File Modification Date/Time     : 2026:05:14 02:35:08-04:00
+File Access Date/Time           : 2026:05:14 02:35:39-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:08-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1024
+Image Height                    : 768
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1024x768
+Megapixels                      : 0.786
+
+
+
+FILE: clean_1.jpg
+--------------------------------------------------
+[STEGO INFO]
+No steghide payload detected (or wrong passphrase)
+[EXIF ANALYSIS]
+ExifTool Version Number         : 13.50
+File Name                       : clean_1.jpg
+Directory                       : datasets/images
+File Size                       : 149 kB
+File Modification Date/Time     : 2026:05:14 02:35:06-04:00
+File Access Date/Time           : 2026:05:14 02:35:08-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:06-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0210
+Components Configuration        : Y, Cb, Cr, -
+User Comment                    : Picsum ID: 335
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 800
+Exif Image Height               : 600
+Image Width                     : 800
+Image Height                    : 600
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 800x600
+Megapixels                      : 0.480
+
+
+
+FILE: stego_3.jpg
+--------------------------------------------------
+[STEGO INFO]
+No steghide payload detected (or wrong passphrase)
+[EXIF ANALYSIS]
+ExifTool Version Number         : 13.50
+File Name                       : stego_3.jpg
+Directory                       : datasets/images
+File Size                       : 67 kB
+File Modification Date/Time     : 2026:05:14 02:35:08-04:00
+File Access Date/Time           : 2026:05:14 02:35:39-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:08-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1200
+Image Height                    : 900
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1200x900
+Megapixels                      : 1.1
+
+
+
+FILE: clean_3.jpg
+--------------------------------------------------
+[STEGO INFO]
+No steghide payload detected (or wrong passphrase)
+[EXIF ANALYSIS]
+ExifTool Version Number         : 13.50
+File Name                       : clean_3.jpg
+Directory                       : datasets/images
+File Size                       : 61 kB
+File Modification Date/Time     : 2026:05:14 02:35:08-04:00
+File Access Date/Time           : 2026:05:14 02:35:08-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:08-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0210
+Components Configuration        : Y, Cb, Cr, -
+User Comment                    : Picsum ID: 102
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 1200
+Exif Image Height               : 900
+Image Width                     : 1200
+Image Height                    : 900
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1200x900
+Megapixels                      : 1.1
+
+
+
+FILE: clean_2.jpg
+--------------------------------------------------
+[STEGO INFO]
+No steghide payload detected (or wrong passphrase)
+[EXIF ANALYSIS]
+ExifTool Version Number         : 13.50
+File Name                       : clean_2.jpg
+Directory                       : datasets/images
+File Size                       : 55 kB
+File Modification Date/Time     : 2026:05:14 02:35:07-04:00
+File Access Date/Time           : 2026:05:14 02:35:08-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:07-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0210
+Components Configuration        : Y, Cb, Cr, -
+User Comment                    : Picsum ID: 272
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 1024
+Exif Image Height               : 768
+Image Width                     : 1024
+Image Height                    : 768
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1024x768
+Megapixels                      : 0.786
+
+
+
+FILE: stego_1.jpg
+--------------------------------------------------
+[STEGO INFO]
+No steghide payload detected (or wrong passphrase)
+[EXIF ANALYSIS]
+ExifTool Version Number         : 13.50
+File Name                       : stego_1.jpg
+Directory                       : datasets/images
+File Size                       : 159 kB
+File Modification Date/Time     : 2026:05:14 02:35:08-04:00
+File Access Date/Time           : 2026:05:14 02:35:10-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:08-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 800
+Image Height                    : 600
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 800x600
+Megapixels                      : 0.480
+
+
+
+
+
+============================================================
+AUDIO / VIDEO STEGANOGRAPHY SCAN
+============================================================
+
+FILE: clean_audio.mp3 [AUDIO]
+--------------------------------------------------
+File Size   : 20299 bytes
+Byte Entropy: 2.118832
+
+[APPENDED DATA CHECK]
+No appended data detected in EOF region.
+
+[BINWALK ANALYSIS]
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             MP3 ID3 tag, v2.4
+
+
+[STRINGS ANALYSIS (top 30 readable strings)]
+Lavf62.12.100
+!$'(+-0258:=@BEGJKNQSVY[^`cfhknortwy|
+Lavc62.28
+LAME3.100UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+
+[EXIF / METADATA]
+ExifTool Version Number         : 13.50
+File Name                       : clean_audio.mp3
+Directory                       : datasets/audio
+File Size                       : 20 kB
+File Modification Date/Time     : 2026:05:14 02:35:08-04:00
+File Access Date/Time           : 2026:05:14 02:35:08-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:08-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : MP3
+File Type Extension             : mp3
+MIME Type                       : audio/mpeg
+MPEG Audio Version              : 1
+Audio Layer                     : 3
+Audio Bitrate                   : 56 kbps
+Sample Rate                     : 44100
+Channel Mode                    : Single Channel
+MS Stereo                       : Off
+Intensity Stereo                : Off
+Copyright Flag                  : False
+Original Media                  : False
+Emphasis                        : None
+ID3 Size                        : 45
+Encoder Settings                : Lavf62.12.100
+Duration                        : 2.89 s (approx)
+
+
+FILE: stego_audio.mp3 [AUDIO]
+--------------------------------------------------
+File Size   : 20320 bytes
+Byte Entropy: 2.130439
+
+[APPENDED DATA CHECK]
+SUSPICIOUS: Readable text found near EOF:
+DETECTED: UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUHidden audio payload
+
+[BINWALK ANALYSIS]
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             MP3 ID3 tag, v2.4
+
+
+[STRINGS ANALYSIS (top 30 readable strings)]
+Lavf62.12.100
+!$'(+-0258:=@BEGJKNQSVY[^`cfhknortwy|
+Lavc62.28
+LAME3.100UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.100UUUU
+
+[EXIF / METADATA]
+ExifTool Version Number         : 13.50
+File Name                       : stego_audio.mp3
+Directory                       : datasets/audio
+File Size                       : 20 kB
+File Modification Date/Time     : 2026:05:14 02:35:08-04:00
+File Access Date/Time           : 2026:05:14 02:35:42-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:08-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : MP3
+File Type Extension             : mp3
+MIME Type                       : audio/mpeg
+MPEG Audio Version              : 1
+Audio Layer                     : 3
+Audio Bitrate                   : 56 kbps
+Sample Rate                     : 44100
+Channel Mode                    : Single Channel
+MS Stereo                       : Off
+Intensity Stereo                : Off
+Copyright Flag                  : False
+Original Media                  : False
+Emphasis                        : None
+ID3 Size                        : 45
+Encoder Settings                : Lavf62.12.100
+Duration                        : 2.90 s (approx)
+
+
+FILE: stego_video.mp4 [VIDEO]
+--------------------------------------------------
+File Size   : 61245 bytes
+Byte Entropy: 7.819197
+
+[APPENDED DATA CHECK]
+SUSPICIOUS: Readable text found near EOF:
+DETECTED:         -ilst   %�too   data       Lavf62.12.100Hidden video payload
+
+[BINWALK ANALYSIS]
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+[STRINGS ANALYSIS (top 30 readable strings)]
+ftypisom
+isomiso2avc1mp41
+x264 - core 165 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=4 threads=6 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+h4g6I	{
+DC^AQ!3
+BEH6h0;q
+TG(41sm
+s/r~`WP
+H*[izIX
+Ya38vr^v
+t<|`@3(L
+Xi;`zPKe
+!9'xlz71k
+DOL_n"v
+{#YkWl 
+>jX Onc
+1Z7Y<T&>
+q*[ZuXr
+s	Pw@l`
+f_gp8(*
+m~F_!TtCYq
+_/Bv:]#
+FUr-{j\f
+Yj@+p)w
+fwRvU;n
+Oe21'U!P
+]esGrMP
+uTy%Ko4?
+YL]J\)I
+6"\(,)d
+
+[EXIF / METADATA]
+ExifTool Version Number         : 13.50
+File Name                       : stego_video.mp4
+Directory                       : datasets/videos
+File Size                       : 61 kB
+File Modification Date/Time     : 2026:05:14 02:35:10-04:00
+File Access Date/Time           : 2026:05:14 02:35:43-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:10-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : MP4
+File Type Extension             : mp4
+MIME Type                       : video/mp4
+Major Brand                     : MP4 Base Media v1 [IS0 14496-12:2003]
+Minor Version                   : 0.2.0
+Compatible Brands               : isom, iso2, avc1, mp41
+Media Data Size                 : 58548
+Media Data Offset               : 48
+Movie Header Version            : 0
+Create Date                     : 0000:00:00 00:00:00
+Modify Date                     : 0000:00:00 00:00:00
+Time Scale                      : 1000
+Duration                        : 5.00 s
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 2
+Track Header Version            : 0
+Track Create Date               : 0000:00:00 00:00:00
+Track Modify Date               : 0000:00:00 00:00:00
+Track ID                        : 1
+Track Duration                  : 5.00 s
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Image Width                     : 1280
+Image Height                    : 720
+Media Header Version            : 0
+Media Create Date               : 0000:00:00 00:00:00
+Media Modify Date               : 0000:00:00 00:00:00
+Media Time Scale                : 15360
+Media Duration                  : 5.00 s
+Media Language Code             : und
+Handler Description             : VideoHandler
+Graphics Mode                   : srcCopy
+Op Color                        : 0 0 0
+Compressor ID                   : avc1
+Source Image Width              : 1280
+Source Image Height             : 720
+X Resolution                    : 72
+Y Resolution                    : 72
+Compressor Name                 : Lavc62.28.100 libx264
+Bit Depth                       : 24
+Pixel Aspect Ratio              : 1:1
+Buffer Size                     : 0
+Max Bitrate                     : 93676
+Average Bitrate                 : 0
+Video Frame Rate                : 30
+Handler Type                    : Metadata
+Handler Vendor ID               : Apple
+Encoder                         : Lavf62.12.100
+Warning                         : Unknown trailer with truncated 'en\x20v' data at offset 0xef28
+Image Size                      : 1280x720
+Megapixels                      : 0.922
+Avg Bitrate                     : 93.7 kbps
+Rotation                        : 0
+
+
+FILE: clean_video.mp4 [VIDEO]
+--------------------------------------------------
+File Size   : 61224 bytes
+Byte Entropy: 7.819139
+
+[APPENDED DATA CHECK]
+No appended data detected in EOF region.
+
+[BINWALK ANALYSIS]
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+[STRINGS ANALYSIS (top 30 readable strings)]
+ftypisom
+isomiso2avc1mp41
+x264 - core 165 - H.264/MPEG-4 AVC codec - Copyleft 2003-2025 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=4 threads=6 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+h4g6I	{
+DC^AQ!3
+BEH6h0;q
+TG(41sm
+s/r~`WP
+H*[izIX
+Ya38vr^v
+t<|`@3(L
+Xi;`zPKe
+!9'xlz71k
+DOL_n"v
+{#YkWl 
+>jX Onc
+1Z7Y<T&>
+q*[ZuXr
+s	Pw@l`
+f_gp8(*
+m~F_!TtCYq
+_/Bv:]#
+FUr-{j\f
+Yj@+p)w
+fwRvU;n
+Oe21'U!P
+]esGrMP
+uTy%Ko4?
+YL]J\)I
+6"\(,)d
+
+[EXIF / METADATA]
+ExifTool Version Number         : 13.50
+File Name                       : clean_video.mp4
+Directory                       : datasets/videos
+File Size                       : 61 kB
+File Modification Date/Time     : 2026:05:14 02:35:10-04:00
+File Access Date/Time           : 2026:05:14 02:35:10-04:00
+File Inode Change Date/Time     : 2026:05:14 02:35:10-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : MP4
+File Type Extension             : mp4
+MIME Type                       : video/mp4
+Major Brand                     : MP4 Base Media v1 [IS0 14496-12:2003]
+Minor Version                   : 0.2.0
+Compatible Brands               : isom, iso2, avc1, mp41
+Media Data Size                 : 58548
+Media Data Offset               : 48
+Movie Header Version            : 0
+Create Date                     : 0000:00:00 00:00:00
+Modify Date                     : 0000:00:00 00:00:00
+Time Scale                      : 1000
+Duration                        : 5.00 s
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 2
+Track Header Version            : 0
+Track Create Date               : 0000:00:00 00:00:00
+Track Modify Date               : 0000:00:00 00:00:00
+Track ID                        : 1
+Track Duration                  : 5.00 s
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Image Width                     : 1280
+Image Height                    : 720
+Media Header Version            : 0
+Media Create Date               : 0000:00:00 00:00:00
+Media Modify Date               : 0000:00:00 00:00:00
+Media Time Scale                : 15360
+Media Duration                  : 5.00 s
+Media Language Code             : und
+Handler Description             : VideoHandler
+Graphics Mode                   : srcCopy
+Op Color                        : 0 0 0
+Compressor ID                   : avc1
+Source Image Width              : 1280
+Source Image Height             : 720
+X Resolution                    : 72
+Y Resolution                    : 72
+Compressor Name                 : Lavc62.28.100 libx264
+Bit Depth                       : 24
+Pixel Aspect Ratio              : 1:1
+Buffer Size                     : 0
+Max Bitrate                     : 93676
+Average Bitrate                 : 0
+Video Frame Rate                : 30
+Handler Type                    : Metadata
+Handler Vendor ID               : Apple
+Encoder                         : Lavf62.12.100
+Image Size                      : 1280x720
+Megapixels                      : 0.922
+Avg Bitrate                     : 93.7 kbps
+Rotation                        : 0
+
+
+CLEAN vs STEGO MEDIA COMPARISON
+--------------------------------------------------
+
+clean_audio.mp3 vs stego_audio.mp3
+  Size    : clean=20299 B  stego=20320 B  delta=+21 B
+  Entropy : clean=2.118832  stego=2.130439  delta=+0.011607
+  -> SUSPICIOUS: stego file is 21 bytes larger
+
+clean_video.mp4 vs stego_video.mp4
+  Size    : clean=61224 B  stego=61245 B  delta=+21 B
+  Entropy : clean=7.819139  stego=7.819197  delta=+0.000058
+  -> SUSPICIOUS: stego file is 21 bytes larger
+
+============================================================
+AUDIO SPECTROGRAM ANALYSIS (Audacity-style, headless)
+============================================================
+
+Tool: librosa + matplotlib (replicates Audacity spectrogram view)
+Output: reports/spectrograms/
+
+FILES ANALYZED:
+  clean_audio.mp3 vs stego_audio.mp3
+
+SPECTROGRAM: reports/spectrograms/audio_spectrogram_comparison.png
+WAVEFORM:    reports/spectrograms/audio_waveform_comparison.png
+
+OBSERVATIONS:
+  - The stego file has 21 bytes appended after the valid MP3 EOF marker
+  - EOF-append does not affect the audio spectrogram significantly —
+    the appended bytes are outside the valid MP3 frame stream
+  - Waveform difference is negligible (< 0.01% of total duration)
+  - Audacity's spectrogram view would confirm no frequency-domain changes
+
+
+
+============================================================
+EMBEDDING ALGORITHM ANALYSIS
+============================================================
+
+ALGORITHMS DETECTED IN THIS DATASET
+--------------------------------------------------
+
+[Steghide (DCT-domain / graph-theoretic LSB)]
+
+Description:
+Steghide embeds data in the DCT (Discrete Cosine Transform) coefficients of JPEG images using a graph-theoretic algorithm. Rather than simple LSB substitution, it modifies DCT coefficients to encode payload bits while preserving the statistical distribution of the cover image as closely as possible.
+
+Detection indicators:
+  - Subtle entropy increase in the modified image
+  - Chi-square attack on LSB distribution can reveal patterns
+  - File size may increase slightly versus original JPEG
+  - JFIF metadata vs Exif metadata discrepancy (stego files lose Exif)
+  - StegExpose score exceeds threshold (default 0.2)
+
+Forensic artifacts in this dataset:
+  * JFIF 1.01 header replaces original Exif (visible in ExifTool output)
+  * Baseline DCT replaces Progressive DCT encoding
+  * Resolution metadata stripped (X/Y resolution set to 1, unit: None)
+  * UserComment and Picsum ID fields are removed
+
+[EOF Append (raw payload concatenation)]
+
+Description:
+The simplest steganography technique: a payload is appended directly after the valid end-of-file marker of the media container. The player or viewer ignores the trailing bytes, but they persist on disk and can be trivially recovered with binwalk, strings, or dd.
+
+Detection indicators:
+  - File size larger than expected for a clean media file
+  - Binwalk detects multiple signatures / reports data after EOF
+  - Strings command returns readable text in the EOF region
+  - Hex editor reveals non-zero data past the media end marker
+
+Forensic artifacts in this dataset:
+  * Payload is in plaintext — no encryption or obfuscation
+  * Easily recoverable with: tail -c N file or dd skip=X
+  * No impact on visual/audio quality of the carrier
+
+--------------------------------------------------
+CLEAN vs STEGO PAIR ANALYSIS
+--------------------------------------------------
+
+Pair: clean_1.jpg  <->  stego_1.jpg
+  Entropy  : clean=7.884413  stego=7.884521  delta=+0.000108
+  LSB dist : clean=(0.4998/0.5002)  stego=(0.4996/0.5004)
+  Chi2     : clean=0.05  stego=0.38
+  File size: clean=148927 B  stego=159221 B  delta=+10294 B
+  Interpretation:
+    -> Entropy delta minimal — embedding may be sparse or well-camouflaged
+    -> Chi-square score elevated (0.38 vs 0.05) — LSB distribution shift detected
+    -> File size changed by +10294 bytes after embedding
+
+Pair: clean_2.jpg  <->  stego_2.jpg
+  Entropy  : clean=7.505385  stego=7.506131  delta=+0.000746
+  LSB dist : clean=(0.5867/0.4133)  stego=(0.5862/0.4138)
+  Chi2     : clean=23660.21  stego=23377.29
+  File size: clean=55049 B  stego=59035 B  delta=+3986 B
+  Interpretation:
+    -> Entropy delta minimal — embedding may be sparse or well-camouflaged
+    -> Chi-square scores similar — LSB distribution largely preserved
+    -> File size changed by +3986 bytes after embedding
+
+Pair: clean_3.jpg  <->  stego_3.jpg
+  Entropy  : clean=7.414187  stego=7.414649  delta=+0.000462
+  LSB dist : clean=(0.5370/0.4630)  stego=(0.5364/0.4636)
+  Chi2     : clean=5920.59  stego=5709.28
+  File size: clean=61455 B  stego=66597 B  delta=+5142 B
+  Interpretation:
+    -> Entropy delta minimal — embedding may be sparse or well-camouflaged
+    -> Chi-square scores similar — LSB distribution largely preserved
+    -> File size changed by +5142 bytes after embedding
+
+
+============================================================
+STEGSOLVE BIT-PLANE ANALYSIS (Headless)
+============================================================
+
+Note: StegSolve GUI replaced by headless Python bit-plane extraction.
+Output images saved to: reports/bitplanes/
+
+FILES PROCESSED:
+  clean_1.jpg  -> LSB summary: reports/bitplanes/clean_1.jpg_lsb_summary.png
+  clean_2.jpg  -> LSB summary: reports/bitplanes/clean_2.jpg_lsb_summary.png
+  clean_3.jpg  -> LSB summary: reports/bitplanes/clean_3.jpg_lsb_summary.png
+  stego_1.jpg  -> LSB summary: reports/bitplanes/stego_1.jpg_lsb_summary.png
+  stego_2.jpg  -> LSB summary: reports/bitplanes/stego_2.jpg_lsb_summary.png
+  stego_3.jpg  -> LSB summary: reports/bitplanes/stego_3.jpg_lsb_summary.png
+
+INTERPRETATION GUIDE:
+  - A uniform/noisy LSB plane in a stego image indicates hidden data
+  - Clean images show structured LSB patterns following natural image gradients
+  - Compare clean_N.jpg vs stego_N.jpg LSB summaries for each pair
+

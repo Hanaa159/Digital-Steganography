@@ -9,7 +9,7 @@ BASE_DIR="$(pwd)"
 # Directories
 CLEAN_IMG="$BASE_DIR/datasets/images"
 CLEAN_AUDIO="$BASE_DIR/datasets/audio"
-CLEAN_VIDEO="$BASE_DIR/datasets/clean/videos"
+CLEAN_VIDEO="$BASE_DIR/datasets/videos"
 
 STEGO_IMG="$BASE_DIR/datasets/images"
 STEGO_AUDIO="$BASE_DIR/datasets/audio"

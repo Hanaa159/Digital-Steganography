@@ -69,15 +69,6 @@ def parse_extraction_results(content):
     return results
 
 
-def parse_stegexpose_results(detection_content):
-    """Extract StegExpose block from detection report if present."""
-    if not detection_content:
-        return None
-    match = re.search(
-        r"STEGEXPOSE RESULTS([\s\S]+?)(?=={3,}|\Z)",
-        detection_content
-    )
-    return match.group(0).strip() if match else None
 
 
 def count_extracted_files(directory):
@@ -159,7 +150,6 @@ def main():
 
     entropy_data = parse_entropy_report(entropy_content)
     extraction_results = parse_extraction_results(extraction_content or "")
-    stegexpose_block = parse_stegexpose_results(detection_content)
 
     # File inventories
     image_files = list_files(IMAGE_DIR, (".jpg", ".jpeg", ".png"))
@@ -218,7 +208,6 @@ def main():
         tools = [
             ("Steghide",              "JPEG steganography embedding and extraction (DCT-domain)"),
             ("ExifTool",              "Metadata extraction and comparison"),
-            ("StegExpose",            "Automated statistical steganography detection"),
             ("Python Entropy Analysis","Shannon entropy + LSB chi-square analysis"),
             ("Binwalk",               "Embedded signature detection in media files"),
             ("Strings",               "Raw printable-string extraction from binary files"),
@@ -324,15 +313,6 @@ def main():
         else:
             f.write("  Audio/video comparison not available. Run scan_audio_video.py first.\n")
 
-        if stegexpose_block:
-            f.write("\n5d. StegExpose Results\n")
-            f.write("-" * 50 + "\n")
-            f.write(stegexpose_block + "\n")
-        else:
-            f.write("\n5d. StegExpose Results\n")
-            f.write("-" * 50 + "\n")
-            f.write("  StegExpose not run or results not found in detection report.\n")
-            f.write("  Run: ./run_stegexpose.sh\n")
 
         # ---- EXTRACTION RESULTS ----
         write_section(f, "6. Extraction Results")
@@ -430,7 +410,7 @@ def main():
         recommendations = [
             ("Use metadata comparison as a first-pass filter",
              "Steghide rewrites Exif; compare against originals when available."),
-            ("Apply StegExpose for automated statistical screening",
+            ("Scale detection for large batches",
              "Effective at detecting Steghide, OutGuess, and F5 in large batches."),
             ("Check file size anomalies for audio/video",
              "EOF-append increases size; compare to a clean reference."),

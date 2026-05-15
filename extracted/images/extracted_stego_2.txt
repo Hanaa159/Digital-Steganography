@@ -1,0 +1,3 @@
+Malware IOC:
+185.244.25.21
+Suspicious Beacon Detected

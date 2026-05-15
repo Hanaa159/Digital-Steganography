@@ -1,0 +1,9 @@
+IMAGE ENTROPY ANALYSIS
+============================================================
+
+stego_2.jpg -> Entropy: 7.506131401978956
+clean_1.jpg -> Entropy: 7.8844125671190755
+stego_3.jpg -> Entropy: 7.41464949890494
+clean_3.jpg -> Entropy: 7.41418701443865
+clean_2.jpg -> Entropy: 7.50538494958925
+stego_1.jpg -> Entropy: 7.88452105454586
